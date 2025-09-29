@@ -72,4 +72,3 @@ jobs:
               exit 1
             esac
           sleep 10
-        done
