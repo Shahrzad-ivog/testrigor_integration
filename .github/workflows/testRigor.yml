@@ -27,7 +27,7 @@ jobs:
             -H 'Content-type: application/json' \
             -H 'auth-token: 382a7e3a-697e-48e0-8ad0-b710d7c2e98b' \
             --data '{"forceCancelPreviousTesting":true,"storedValues":{"storedValueName1":"Value"}}' \
-              https://api.testrigor.com/api/v1/apps/26mxW3pa4GnnxLq8b/retest
+            https://api.testrigor.com/api/v1/apps/26mxW3pa4GnnxLq8b/retest
 
           sleep 10
 
