@@ -29,7 +29,7 @@ jobs:
             --data '{"forceCancelPreviousTesting":true,"storedValues":{"storedValueName1":"Value"}}' \
             https://api.testrigor.com/api/v1/apps/C6phh4htDZkTAe2p2/retest
 
-          sleep 10
+          
 
           while true
           do
